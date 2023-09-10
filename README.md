@@ -1,6 +1,6 @@
 # CodeClause-Task-1
 Product Landing Page Made Using the help of HTML, CSS, JS.
-
+Demo Pictures of the project - 
 
 
 ![Screenshot (9664)](https://github.com/debjyotidas111/CodeClause-Task-1/assets/86339364/19b76288-0088-4373-877b-f996972f0d21)
